@@ -7,10 +7,10 @@ public:
         unordered_map<int, int> freq;
         
         int left = 0;
-        
+
         for(int right = 0; right < nums.size(); right++) {
             freq[nums[right]]++;
-            sum += freq[nums[right]];
+            sum += nums[right];
             
             while(right - left + 1 > k) {
                 freq[nums[left]]--;
