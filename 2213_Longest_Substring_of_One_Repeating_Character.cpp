@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int longest(string s) {
+    int longest(string& s) {
         int len = 1, maxlen = INT_MIN;
         for(int i = 1; i < s.size(); i++) {
             if(s[i] == s[i-1]) {
