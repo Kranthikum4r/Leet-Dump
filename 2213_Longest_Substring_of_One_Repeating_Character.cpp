@@ -15,7 +15,7 @@ public:
         return maxlen;
     }
     vector<int> longestRepeating(string s, string queryCharacters, vector<int>& queryIndices) {
-        vector<int> ans(queryIndices.size());
+        vector<int> ans;
         for(int i : queryIndices) {
             s[i] = queryCharacters[i];
             ans.push_back(longest(s));
