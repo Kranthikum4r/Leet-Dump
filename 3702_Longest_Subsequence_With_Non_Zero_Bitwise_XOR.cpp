@@ -3,19 +3,18 @@ public:
     int longestSubsequence(vector<int>& nums) {
         int n = nums.size();
 
-        int len = 0;
-        int left = 0;
         int xr = 0;
-        for(int right = 0; right < n; right++) {
-            xr ^= nums[right];
-            if(xr == 0) {
-                len = 0;
-                left++;
-            }
-            else {
-                len = max(len, right - left + 1);
+        bool hasNonZero = true;
+        
+        for(int x : nums) {
+            xr ^= x;
+            if(x != 0) {
+                hasNonZero = true;
             }
         }
-        return len;
+
+        if(xr != 0) return n;
+        if(hasNonZero) return n-1; // remove one non-zero element
+        else return 0; // if no non-zero (all zeroes) 
     }
 };
