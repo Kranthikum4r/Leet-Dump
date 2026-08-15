@@ -15,6 +15,6 @@ public:
 
         if(xr != 0) return n;
         if(hasNonZero) return n-1; // remove one non-zero element
-        else return 0; // if no non-zero (all zeroes) 
+        return 0; // if no non-zero (all zeroes) 
     }
 };
