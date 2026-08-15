@@ -4,7 +4,6 @@ public:
         int n = nums.size();
 
         int xr = 0;
-        bool hasNonZero = true;
         
         for(int x : nums) {
             xr ^= x;
@@ -12,9 +11,14 @@ public:
                 hasNonZero = true;
             }
         }
-
         if(xr != 0) return n;
-        if(hasNonZero) return n-1; // remove one non-zero element
+        
+        for(int x : nums) {
+            if(x != 0) {
+                return n-1; // remove one non-zero element
+            }
+        }
+
         return 0; // if no non-zero (all zeroes) 
     }
 };
