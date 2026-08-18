@@ -9,7 +9,7 @@ public:
         int count[51] = {0};
         for(int x : nums) count[x]++;
 
-        if(k == 1) {
+        if(k == 1) { // largest element which has occured only once
             for(int i = 50; i >=0; i--) {
                 if(count[i] == 1) {
                     return i;
