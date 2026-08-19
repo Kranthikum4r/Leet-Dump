@@ -13,19 +13,22 @@ public:
             while(j < 5) {
                 if(blocked[i].count(j)) break;
                 j++;
-                if(j == 5) ans++;
-            }
-            j = 3;
-            while(j < 7) {
-                if(blocked[i].count(j)) break;
-                j++;
-                if(j == 7) ans++;
-            }
-            j = 5;
-            while(j < 9) {
-                if(blocked[i].count(j)) break;
-                j++;
-                if(j == 9) ans++;
+                if(j == 5) {
+                    ans++;
+                    while(j < 9) {
+                        if(blocked[i].count(j)) break;
+                        j++;
+                        if(j == 9) ans++;
+                    }
+                }
+                else {
+                    j = 3;
+                    while(j < 7) {
+                        if(blocked[i].count(j)) break;
+                        j++;
+                        if(j == 7) ans++;
+                    }
+                }
             }
         }
 
