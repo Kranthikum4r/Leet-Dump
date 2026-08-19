@@ -9,29 +9,38 @@ public:
 
         int ans = 0;
         for(int i = 0; i < n; i++) {
-            int j = 1;
-            while(j < 5) {
-                if(blocked[i].count(j)) break;
-                j++;
-                if(j == 5) {
-                    ans++;
-                    while(j < 9) {
-                        if(blocked[i].count(j)) break;
-                        j++;
-                        if(j == 9) ans++;
-                    }
-                }
-                else {
-                    j = 3;
-                    while(j < 7) {
-                        if(blocked[i].count(j)) break;
-                        j++;
-                        if(j == 7) ans++;
-                    }
+            bool left = true;
+            bool middle = true;
+            bool right = true;
+
+            for(int j = 1; j <= 4; j++) {
+                if (blocked[i].count(j)) {
+                    left = false;
+                    break;
                 }
             }
-        }
 
+            for(int j = 3; j <= 6; j++) {
+                if(blocked[i].count(j)) {
+                    middle = false;
+                    break;
+                }
+            }     
+
+            for(int j = 5; j <= 8; j++) {
+                if(blocked[i].count(j)) {
+                    right = false;
+                    break;
+                }
+            }
+
+            if(left && right) {
+                ans += 2;
+            }
+            else if(left || middle || right) {
+                ans += 1;
+            }   
+        }
         return ans;
     }
 };
