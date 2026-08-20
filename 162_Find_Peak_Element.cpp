@@ -11,6 +11,6 @@ public:
             else
                 low = mid + 1;
         }
-        return high; // converges to one element
+        return low; // converges to one element
     }
 };
