@@ -1,15 +1,13 @@
 class Solution {
 public:
     int maxOperations(vector<int>& nums, int k) {
-        int n = nums.size();
 
-        unordered_map<int, int> mp;
-        mp[0] = 1;
-    
-        int ans = 0;
         sort(nums.begin(), nums.end());
 
+        int n = nums.size();
+        
         int l = 0, r = n-1;
+        int ans = 0;
 
         while(l < r) {
             long long sum = nums[l] + nums[r];
