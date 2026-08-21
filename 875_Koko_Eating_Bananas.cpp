@@ -1,10 +1,10 @@
 class Solution {
 public:
     bool canEat(vector<int>& piles, int h, int k) {
-        int hours = 0;
+        long long hours = 0;
         
         for(int p : piles) {
-            hours += (p + k - 1) / k;
+            hours += (p + k - 1) / k; // ceil (if pile < k, eats all of them, and wait until hour completes)
         }
         return hours <= h;
     }
