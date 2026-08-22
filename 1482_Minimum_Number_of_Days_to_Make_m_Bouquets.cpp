@@ -35,7 +35,7 @@ public:
 
         int ans = -1;
 
-        while(l < h) {
+        while(l <= h) {
             int mid = l + (h - l) / 2;
 
             if(canMake(bloomDay, m, k, mid)) {
