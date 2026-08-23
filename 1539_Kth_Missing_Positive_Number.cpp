@@ -16,6 +16,8 @@ public:
                 high = mid - 1;
             }
         }
-        return low + k;
+        // After loop, 'high' points to the largest index such that
+        // number of missing elements till there < k
+        return high + k + 1;
     }
 };
