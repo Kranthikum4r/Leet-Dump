@@ -1,22 +1,21 @@
 class Solution {
 public:
-    // int result(vector<int>& nums, int k) {
-    //     for(int num : nums) {
-    //         sum += 1;
-    //     }
-    // }
+    int result(vector<int>& nums, int k) {
+        int res = 0;
+        for(int num : nums) {
+            res += (num / k);
+        }
+        return res;
+    }
     int smallestDivisor(vector<int>& nums, int threshold) {
         sort(nums.begin(), nums.end());
         
-        int sum = 0;
-        for(int num : nums) sum += num;
-
-        int l = 0, h = nums.size() - 1;
         int ans;
+        int l = 0, h = nums.size() - 1;
         while(l <= h) {
             int mid = l + (h - l) / 2;
 
-            if(sum / nums[mid] <= threshold) {
+            if(result(nums, nums[mid]) <= threshold) {
                 ans = mid;
                 h = mid - 1;
             }
