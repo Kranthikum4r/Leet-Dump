@@ -24,7 +24,7 @@ public:
     
         for(int w : weights) h += w;
         
-        int ans;
+        int ans = h;
         while(l <= h) {
             int mid = l + (h - l) / 2;
 
