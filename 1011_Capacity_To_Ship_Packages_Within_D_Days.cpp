@@ -1,12 +1,21 @@
 class Solution {
 public:
     bool canShipped(vector<int>& weights, int capacity, int days) {
-        int reqDays = 0;
+        int reqDays = 1;
+        int currentWeight = 0;
+
         for(int w : weights) {
-            reqDays += (w + capacity - 1) / capacity;
+            if(currentWeight + w > capacity) {
+                reqDays++;
+                currentWeight = 0;
+            }
+
+            currentWeight += w;
+
             if(reqDays > days)
                 return false;
         }
+
         return true;
     }
     int shipWithinDays(vector<int>& weights, int days) {
