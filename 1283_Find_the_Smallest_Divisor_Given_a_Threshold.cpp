@@ -3,7 +3,7 @@ public:
     int result(vector<int>& nums, int k) {
         int res = 0;
         for(int num : nums) {
-            res += (num / k);
+            res += (num + k - 1) / k;
         }
         return res;
     }
