@@ -8,14 +8,13 @@ public:
         return res;
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
-        sort(nums.begin(), nums.end());
-        
         int ans;
-        int l = 0, h = nums.size() - 1;
+        int l = 1;
+        int h = *max_element(nums.begin(), nums.end());
         while(l <= h) {
             int mid = l + (h - l) / 2;
 
-            if(result(nums, nums[mid]) <= threshold) {
+            if(result(nums, mid) <= threshold) {
                 ans = mid;
                 h = mid - 1;
             }
