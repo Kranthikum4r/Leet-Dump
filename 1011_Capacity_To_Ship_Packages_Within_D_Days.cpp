@@ -19,10 +19,12 @@ public:
         return true;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int l = *max_element(weights.begin(), weights.end());
-        int h = 0;
-    
-        for(int w : weights) h += w;
+        int l = 0, h = 0;
+        
+        for(int w : weights) {
+            l = max(l, w); // max element is the minimum capacity(inorder that every can be)
+            h += w; // sum of weights
+        }
         
         int ans = h;
         while(l <= h) {
