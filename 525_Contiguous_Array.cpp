@@ -15,7 +15,7 @@ public:
                 diff--;
             
             if(first.count(diff)) {
-                ans = max(ans, i - first[diff]);
+                ans = max(ans, i - first[diff]); // length excluding the present el
             }
             else {
                 first[diff] = i;
