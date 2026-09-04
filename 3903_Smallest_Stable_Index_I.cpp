@@ -14,7 +14,7 @@ public:
                 mx = nums[i];
             }
             else {
-                nums[i] = mx;
+                maxarr[i] = mx;
             }
         }
         int mn = nums.back();
@@ -25,7 +25,7 @@ public:
                 mn = nums[i];
             }
             else {
-                nums[i] = mn;
+                minarr[i] = mn;
             }
         }
         for(int i = 0; i < n; i++) {
