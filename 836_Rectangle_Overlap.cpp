@@ -4,6 +4,6 @@ public:
         int dx = rec1[2] - rec2[2];
         int dy = rec1[3] - rec2[3];
     
-        return (dx > 0 && dy > 0) || (dx < 0 && dy < 0);
+        return (dx >= 0 && dy >= 0 && (dx != 0 && dy != 0)) || (dx <= 0 && dy <= 0 && (dx != 0 && dy != 0));
     }
 };
