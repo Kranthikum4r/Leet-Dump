@@ -28,7 +28,7 @@ public:
                 unordered_set<int> s;
                 for(int r = i; r < i + 3; r++) {
                     for(int c = j; c < j + 3; c++) {
-                        if(board[i][j] == '.') continue;
+                        if(board[r][c] == '.') continue;
                         
                         if(s.count(board[r][c])) {
                             return false;
