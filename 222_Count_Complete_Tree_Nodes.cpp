@@ -12,25 +12,39 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        if(!root) return 0;
-        
-        queue<TreeNode*> q;
-        q.push(root);
-        int ans = 0;
+        if (!root) return 0;
 
-        while(!q.empty()) {
-            int size = q.size();
-            ans += size;
+        int leftHeight = getLeftHeight(root);
+        int rightHeight = getRightHeight(root);
 
-            for(int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
-                q.pop();
-                
-                if(node->left != NULL) q.push(node->left);
-                if(node->right != NULL) q.push(node->right);
-            }
+        // Perfect binary tree
+        if(leftHeight == rightHeight) {
+            return (1 << leftHeight) - 1;
         }
 
-        return ans;
+        // Not perfect, check both subtrees
+        return 1 + countNodes(root->left) + countNodes(root->right);
+    }
+
+    int getLeftHeight(TreeNode* root) {
+        int h = 0;
+
+        while(root) {
+            h++;
+            root = root->left;
+        }
+
+        return h;
+    }
+
+    int getRightHeight(TreeNode* root) {
+        int h = 0;
+
+        while(root) {
+            h++;
+            root = root->right;
+        }
+
+        return h;
     }
 };
