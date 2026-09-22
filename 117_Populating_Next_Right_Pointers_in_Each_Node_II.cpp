@@ -20,14 +20,14 @@ class Solution {
 public:
     Node* connect(Node* root) {
         if(!root) return NULL;
-        
+
         queue<Node*> q;
         q.push(root);
 
-        Node* prev;
         while(!q.empty()) {
             int size = q.size();
 
+            Node* prev;
             for(int i = 0; i < size; i++) {
                 Node* node = q.front();
                 q.pop();
