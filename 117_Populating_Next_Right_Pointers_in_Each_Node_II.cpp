@@ -27,17 +27,16 @@ public:
         while(!q.empty()) {
             int size = q.size();
 
-            Node* prev;
+            Node* prev = NULL;
             for(int i = 0; i < size; i++) {
                 Node* node = q.front();
                 q.pop();
                 
-                if(i > 0) {
+                if(prev != NULL) {
                     prev->next = node;
                 }
-                else {
-                    prev = node;
-                }
+
+                prev = node;
 
                 if(node->left) {
                     q.push(node->left);
