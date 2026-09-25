@@ -1,7 +1,8 @@
 class Solution {
 public:
     int equalPairs(vector<vector<int>>& grid) {
-        map<vector<int>, int> mp;
+        map<vector<int>, int> mp; // unordered_map doesn't work here because its key must be hashable
+        // map does not need a hash function. (uses comparison-> '<')
         int ans = 0;
 
         for(int i = 0; i < grid.size(); i++) {
