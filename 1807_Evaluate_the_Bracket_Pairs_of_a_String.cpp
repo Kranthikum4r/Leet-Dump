@@ -12,6 +12,7 @@ public:
         int n = s.size();
         while(i < n) {
             if(s[i] == '(') {
+                i++;
                 string word = "";
                 while(s[i] != ')') {
                     word += s[i];
