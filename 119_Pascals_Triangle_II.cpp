@@ -6,7 +6,7 @@ public:
 
         // vector<int>
         for(int i = 2; i <= rowIndex + 1; i++) {
-            vector<int> row(rowIndex, 1);
+            vector<int> row(i, 1);
             
             for(int j = 1; j < i - 1; j++) {
                 row[j] = prev[j - 1] + prev[j];
