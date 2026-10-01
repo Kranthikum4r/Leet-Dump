@@ -13,7 +13,7 @@ public:
                 right--;
             }
 
-            if(char(s[left] - 32) != char(s[right] - 32)) return false;
+            if(char(s[left] + 32) != char(s[right] + 32)) return false;
 
             left++;
             right--;
