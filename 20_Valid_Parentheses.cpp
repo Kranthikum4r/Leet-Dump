@@ -4,10 +4,10 @@ public:
         stack<int> st;
 
         for(char c : s) {
-            if(!st.empty() && c == ')') {
+            if(st.empty() && c == ')') {
                 return false;
             }
-            if(c == '(' || c == '{' || c == '[') {
+            else if(c == '(' || c == '{' || c == '[') {
                 st.push(c);
             }
             else if(
@@ -16,7 +16,6 @@ public:
                 (st.top() == '[' && c == ']')
             ) {
                 st.pop();
-
             }
             else {
                 return false;
