@@ -7,10 +7,10 @@ private:
         }
 
         if(open < n) {
-            generate(cur + '(', open + 1, close, n - 1, ans);
+            generate(cur + '(', open + 1, close, n, ans);
         }
         if(close < open) {
-            generate(cur + ')', open, close + 1, n - 1, ans);
+            generate(cur + ')', open, close + 1, n, ans);
         }
     }
 public:
@@ -18,6 +18,7 @@ public:
         vector<string> ans;
 
         generate("", 0, 0, n , ans);
+
         return ans;
     }
 };
