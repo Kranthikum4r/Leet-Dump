@@ -6,12 +6,14 @@ public:
 
         int left = 0;
         int right = m*n - 1;
+
         while(left <= right) {
             int mid = (left + right) / 2;
 
             int row = mid / n;
             int col = mid % n;
-            if(matrix[row][col] == mid) {
+
+            if(matrix[row][col] == target) {
                 return true;
             }
             else if(matrix[row][col] > target) {
