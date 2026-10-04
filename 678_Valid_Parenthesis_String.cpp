@@ -1,9 +1,15 @@
 class Solution {
 public:
     bool solve(string& s, int i, stack<char>& st) {
+        int remaining = s.length() - i;
+
+        if(st.size() > remaining)
+            return false;
+
         if(i == s.length()) {
             return st.empty();
         }
+
         if(s[i] == '(') {
             st.push(s[i]);
 
@@ -13,6 +19,7 @@ public:
 
             return result;
         }
+
         else if(s[i] == ')') {
             if(st.empty())
                 return false;
@@ -25,6 +32,7 @@ public:
             
             return result;
         }
+
         else {
             // '('
             st.push('(');
