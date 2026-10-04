@@ -1,66 +1,43 @@
 class Solution {
 public:
-    bool solve(string& s, int i, stack<char>& st) {
-        int remaining = s.length() - i;
+    vector<vector<int>> dp;
 
-        if(st.size() > remaining)
+    bool solve(string& s, int i, int open) {
+        // too much )
+        if(open < 0)
             return false;
 
         if(i == s.length()) {
-            return st.empty();
+            return open == 0;
         }
 
-        if(s[i] == '(') {
-            st.push(s[i]);
-
-            bool result = solve(s, i+1, st);
+        if(dp[i][open] != -1)
+            return dp[i][open];
         
-            st.pop(); // backtrack
-
-            return result;
+        if(s[i] == '(') {
+            return dp[i][open] = solve(s, i + 1, open + 1);
         }
 
         else if(s[i] == ')') {
-            if(st.empty())
-                return false;
-
-            st.pop();
-
-            bool result = solve(s, i+1, st);
-
-            st.push('('); // backtrack
-            
-            return result;
+            return dp[i][open] = solve(s, i + 1, open - 1);
         }
 
         else {
-            // '('
-            st.push('(');
 
-            bool a = solve(s, i + 1, st);
+            bool a = solve(s, i + 1, open + 1);
 
-            st.pop(); // backtrack
-
-            // ')'
-            bool b = false;
-
-            if(!st.empty()) {
-                st.pop(); // empty
-
-                b = solve(s, i + 1, st);
-
-                st.push('(');   // backtrack
-            }
-
-            // empty
-            bool c = solve(s, i+1, st);
+            bool b = solve(s, i + 1, open - 1);
+            
+            bool c = solve(s, i + 1, open);
 
             return a || b || c;
         }
     }
     bool checkValidString(string s) {
-        stack<char> st;
+        int n = s.length();
 
-        return solve(s, 0, st);
+        dp.assign(n, vector<int>(n+1, -1));
+        
+        return solve(s, 0, 0);
     }
 };
