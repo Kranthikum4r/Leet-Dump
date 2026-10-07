@@ -1,28 +1,33 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int prev = -1;
+        int len = s.length();
+        int ans = 0, prev = 0, num = 0;
 
-        unordered_map<char, int> mp;
-        mp['I'] = 1;
-        mp['V'] = 5;
-        mp['X'] = 10;
-        mp['L'] = 50;
-        mp['C'] = 100;
-        mp['D'] = 500;
-        mp['M'] = 1000;
-
-        int ans = 0;
-        for(int i = s.length() - 1; i >= 0; i--) {
-            char c = s[i];
-
-            if(mp[c] < prev) {
-                ans -= mp[c];
+        for(int i = len-1; i >= 0; i--) {
+            switch(s[i]) {
+                case 'I': num = 1;
+                break;
+                case 'V': num = 5;
+                break;
+                case 'X': num = 10;
+                break;
+                case 'L': num = 50;
+                break;
+                case 'C': num = 100;
+                break;
+                case 'D': num = 500;
+                break;
+                case 'M': num = 1000;
+                break;
+            }
+            if(num < prev) {
+                ans -= num;
             }
             else {
-                ans += mp[c];
+                ans += num;
             }
-            prev = mp[c];
+            prev = num;
         }
         return ans;
     }
