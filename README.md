@@ -9,18 +9,21 @@ Every Leetcode problem I solve
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
 | ------- |
