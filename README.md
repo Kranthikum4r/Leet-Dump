@@ -6,6 +6,7 @@ Every Leetcode problem I solve
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
