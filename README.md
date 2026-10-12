@@ -13,6 +13,7 @@ Every Leetcode problem I solve
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Math
 |  |
 | ------- |
@@ -97,4 +99,8 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
