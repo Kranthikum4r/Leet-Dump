@@ -34,6 +34,7 @@ Every Leetcode problem I solve
 | [0162-find-peak-element](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0162-find-peak-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
