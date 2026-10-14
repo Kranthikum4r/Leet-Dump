@@ -6,13 +6,11 @@ public:
         int n = sum / 9; // number of 9's we can use (using 9's maximizes sum)
         int r = sum % 9; // remainder digit
 
-        string ans = "";
+        string ans;
+        ans.reserve(num);
 
         // append n 9's
-        num -= n;
-        while(n--) {
-            ans += '9';
-        }
+        ans.append(n, '9'); num -= n;
 
         // append the remainder digit
         if(r) {
@@ -21,9 +19,7 @@ public:
         }
 
         // if number of digits remain, add zeroes
-        while(num--) {
-            ans += '0';
-        }
+        ans.append(num, '0');
 
         return ans;
     }
