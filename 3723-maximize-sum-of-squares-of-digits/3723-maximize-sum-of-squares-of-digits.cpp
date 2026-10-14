@@ -1,16 +1,30 @@
 class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
-        if(sum > 9 * num) return "";
+        if(sum > 9 * num) return ""; // not possible
 
-        string ans;
+        int n = sum / 9; // number of 9's we can use (using 9's maximizes sum)
+        int r = sum % 9; // remainder digit
 
-        while(num--) {
-            int digit = min(9, sum); // keeping 9's makes square sum maximum
-            ans += char('0' + digit);
-            sum -= digit;
+        string ans = "";
+
+        // append n 9's
+        num -= n;
+        while(n--) {
+            ans += '9';
         }
 
-        return sum == 0 ? ans : "";
+        // append the remainder digit
+        if(r) {
+            ans += char('0' + r);
+            num--;
+        }
+
+        // if number of digits remain, add zeroes
+        while(num--) {
+            ans += '0';
+        }
+
+        return ans;
     }
 };
