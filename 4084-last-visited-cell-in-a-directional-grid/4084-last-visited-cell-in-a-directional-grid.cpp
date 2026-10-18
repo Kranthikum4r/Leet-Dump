@@ -4,41 +4,30 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        set<pair<int, int>> visited;
-
-        int x = 0, y = 0;
-        visited.insert({x, y});
-
-        while(true) {
-            int nx = x, ny = y;
-
-            char d = grid[x][y];
-
-            if(d == 'L') {
-                ny--;
+        int i = 0, j = 0;
+        int r = 0, c = 0;
+        
+        while(i < m && j < n && i >= 0 && j >= 0){
+            if(grid[i][j] == '0'){
+                return {r,c};
             }
-            else if(d == 'R') {
-                ny++;
+            r = i;
+            c = j;
+            if(grid[i][j] == 'R') {
+                j++;
             }
-            else if(d == 'U') {
-                nx--;
+            else if(grid[i][j] == 'L') {
+                j--;
             }
-            else if(d == 'D') {
-                nx++;
+            else if(grid[i][j] == 'U') {
+                i--;
             }
-
-            if(nx < 0 || nx >= m || ny < 0 || ny >= n) {
-                return {x, y};
+            else {
+                i++;
             }
-
-            if(visited.count({nx, ny})) {
-                return {x, y};
-            }
-
-            x = nx;
-            y = ny;
-            visited.insert({x, y});
+            grid[r][c] = '0';
         }
 
+        return {r,c};
     }
 };
