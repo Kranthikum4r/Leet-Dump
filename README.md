@@ -63,6 +63,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
@@ -75,6 +76,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0005-longest-palindromic-substring) |
+| [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +126,12 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/main/1922-count-good-numbers/) | Medium |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
