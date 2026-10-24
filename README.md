@@ -14,6 +14,7 @@ Every Leetcode problem I solve
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
 | [1922-count-good-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/main/1922-count-good-numbers/) | Medium |
+| [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Two Pointers
 |  |
