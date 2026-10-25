@@ -35,6 +35,7 @@ Every Leetcode problem I solve
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0162-find-peak-element) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
+| [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -52,6 +53,7 @@ Every Leetcode problem I solve
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 ## Greedy
 |  |
@@ -142,4 +144,16 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
