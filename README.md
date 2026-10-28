@@ -43,6 +43,7 @@ Every Leetcode problem I solve
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -57,6 +58,7 @@ Every Leetcode problem I solve
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -146,6 +149,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
