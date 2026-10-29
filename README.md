@@ -12,6 +12,7 @@ Every Leetcode problem I solve
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
@@ -36,6 +37,7 @@ Every Leetcode problem I solve
 | [0162-find-peak-element](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0162-find-peak-element) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -65,6 +67,7 @@ Every Leetcode problem I solve
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -92,6 +95,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
