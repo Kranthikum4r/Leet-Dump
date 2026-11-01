@@ -35,6 +35,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0162-find-peak-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -82,6 +83,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1922-count-good-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/main/1922-count-good-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
