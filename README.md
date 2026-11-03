@@ -47,6 +47,7 @@ Every Leetcode problem I solve
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
@@ -89,6 +90,7 @@ Every Leetcode problem I solve
 | [1922-count-good-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/main/1922-count-good-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
