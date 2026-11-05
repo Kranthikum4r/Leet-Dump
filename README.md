@@ -39,6 +39,7 @@ Every Leetcode problem I solve
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -54,6 +55,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0162-find-peak-element) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -96,6 +98,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0005-longest-palindromic-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
