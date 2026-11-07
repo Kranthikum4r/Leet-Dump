@@ -41,6 +41,7 @@ Every Leetcode problem I solve
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1882-process-tasks-using-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -126,6 +127,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1882-process-tasks-using-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
