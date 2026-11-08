@@ -39,6 +39,7 @@ Every Leetcode problem I solve
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1882-process-tasks-using-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1882-process-tasks-using-servers) |
@@ -65,6 +66,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -154,6 +156,7 @@ Every Leetcode problem I solve
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Recursion
 |  |
@@ -177,16 +180,19 @@ Every Leetcode problem I solve
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0129-sum-root-to-leaf-numbers) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
