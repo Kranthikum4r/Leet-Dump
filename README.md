@@ -132,6 +132,7 @@ Every Leetcode problem I solve
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1882-process-tasks-using-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -169,6 +170,7 @@ Every Leetcode problem I solve
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -203,4 +205,16 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2747-count-zero-request-servers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
