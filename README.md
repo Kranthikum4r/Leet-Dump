@@ -81,6 +81,7 @@ Every Leetcode problem I solve
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Every Leetcode problem I solve
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Two Pointers
 |  |
 | ------- |
