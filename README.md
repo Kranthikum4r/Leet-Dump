@@ -218,4 +218,8 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0023-merge-k-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
