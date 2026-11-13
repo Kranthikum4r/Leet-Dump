@@ -20,6 +20,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -38,6 +39,7 @@ Every Leetcode problem I solve
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0907-sum-of-subarray-minimums) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -113,6 +115,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0907-sum-of-subarray-minimums](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0907-sum-of-subarray-minimums) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3693-climbing-stairs-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -222,4 +225,8 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
