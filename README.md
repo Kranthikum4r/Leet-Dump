@@ -50,6 +50,7 @@ Every Leetcode problem I solve
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -210,6 +211,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,4 +232,8 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0907-sum-of-subarray-minimums) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
