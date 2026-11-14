@@ -184,6 +184,7 @@ Every Leetcode problem I solve
 ## Bit Manipulation
 |  |
 | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
