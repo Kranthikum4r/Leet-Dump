@@ -15,6 +15,7 @@ Every Leetcode problem I solve
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
@@ -240,4 +241,8 @@ Every Leetcode problem I solve
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
