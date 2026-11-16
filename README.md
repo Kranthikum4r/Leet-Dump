@@ -40,6 +40,7 @@ Every Leetcode problem I solve
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
+| [0860-lemonade-change](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0907-sum-of-subarray-minimums) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
@@ -82,6 +83,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0624-maximum-distance-in-arrays) |
+| [0860-lemonade-change](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2333-minimum-sum-of-squared-difference) |
