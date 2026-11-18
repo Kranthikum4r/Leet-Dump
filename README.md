@@ -17,6 +17,7 @@ Every Leetcode problem I solve
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
