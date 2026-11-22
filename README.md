@@ -9,6 +9,7 @@ Every Leetcode problem I solve
 | [0005-longest-palindromic-substring](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1021-remove-outermost-parentheses) |
@@ -99,6 +100,7 @@ Every Leetcode problem I solve
 | ------- |
 | [0013-roman-to-integer](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0142-linked-list-cycle-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2747-count-zero-request-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2747-count-zero-request-servers) |
@@ -224,6 +226,7 @@ Every Leetcode problem I solve
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [2747-count-zero-request-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
