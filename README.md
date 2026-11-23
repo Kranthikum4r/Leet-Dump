@@ -48,6 +48,7 @@ Every Leetcode problem I solve
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1254-number-of-closed-islands](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -112,6 +113,7 @@ Every Leetcode problem I solve
 | [0172-factorial-trailing-zeroes](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/main/1922-count-good-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
@@ -166,6 +168,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1352-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -179,6 +182,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1352-product-of-the-last-k-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -253,6 +257,7 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
