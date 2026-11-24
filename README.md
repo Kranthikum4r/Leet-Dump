@@ -60,6 +60,7 @@ Every Leetcode problem I solve
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -117,6 +118,7 @@ Every Leetcode problem I solve
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kranthikum4r/Leet-Dump/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1922-count-good-numbers](https://github.com/Kranthikum4r/Leet-Dump/tree/main/1922-count-good-numbers/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -233,6 +235,7 @@ Every Leetcode problem I solve
 | [0424-longest-repeating-character-replacement](https://github.com/Kranthikum4r/Leet-Dump/tree/master/0424-longest-repeating-character-replacement) |
 | [2747-count-zero-request-servers](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -264,4 +267,12 @@ Every Leetcode problem I solve
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Kranthikum4r/Leet-Dump/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Kranthikum4r/Leet-Dump/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
